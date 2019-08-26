@@ -22,6 +22,8 @@ Save Invoice button Will save the pdf file "invoice.pdf" at "E:/"(location of fi
 
 After saving the file window will close automatically once you click ok button of dialog box popped up next.
 
+Update : User Authentication and Record Keeping i.e., Database connectivity is under development and will soon be updated.
+
 Note:-
 This Project is designed with NetBeans 8.2 (The invoice form is designed with help of Inbuilt Frame Designer of Netbeans)
 
